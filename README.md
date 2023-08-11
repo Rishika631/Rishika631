@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishika Agrawal</h1>
-<h3 align="center">"Empowering Innovation Through Code: Explore, Collaborate, Contribute." A dedicated software engineer with great communication skills, enthusiastic about web development, ML, and Generative AI. Driven by a strong programming foundation, exceptional problem-solving skills, and a desire for learning, aims to contribute expertise to innovative projects in a collaborative team environment. Eager to tackle challenges and committed to ongoing growth for meaningful contributions in these domains.</h3>
+<h3 align="center">"Empowering Innovation Through Code: Explore, Collaborate, Contribute." </h3>
+<h3 align="center">A dedicated software engineer with great communication skills, enthusiastic about web development, ML, and Generative AI. Driven by a strong programming foundation, exceptional problem-solving skills, and a desire for learning, aims to contribute expertise to innovative projects in a collaborative team environment. Eager to tackle challenges and committed to ongoing growth for meaningful contributions in these domains.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishika631&label=Profile%20views&color=0e75b6&style=flat" alt="rishika631" /> </p>
 
