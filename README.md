@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishika631&label=Profile%20views&color=0e75b6&style=flat" alt="rishika631" /> </p>
 
-- 🌱 I’m currently learning **Generative AI, MERN Stack***
+- 🌱 I’m currently learning **Generative AI, MERN Stack**
 
 - 💬 Ask me about **openAI, MongoDB**
 
