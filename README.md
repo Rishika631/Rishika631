@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Generative AI, MERN Stack**
 
-- 💬 Ask me about **openAI, MongoDB***
+- 💬 Ask me about **openAI, MongoDB**
 
 - 📫 How to reach me **rishikaagrawal2001@gmail.com**
 
